@@ -65,6 +65,7 @@ http://localhost:8080
 ```
 
 🧪 Exemplo de Payload
+
 📥 Criar usuário
 
 **POST /api/users**
